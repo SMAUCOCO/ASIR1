@@ -1,0 +1,8 @@
+server {
+    listen 80;
+    server_name localhost;
+    location / {
+        C:\Users\Ale\Desktop\docker-web\index.html;
+        index index.html;
+    }
+}
